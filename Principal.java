@@ -23,6 +23,7 @@ public class Principal {
             System.out.println("6) Pesos argentinos =>> Pesos chilenos");
             System.out.println("7) Salir");
             System.out.println("*****************************************");
+            System.out.println("Ingrese una opción");
             numElegido = lectura.nextInt();
 
             switch (numElegido) {
